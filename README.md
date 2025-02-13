@@ -76,23 +76,25 @@ Depend on this analysis we can conclude that LTE Telkomsel network from distance
 
 ## Tri
 
-image
+![11fc2439-de1b-4938-bdd5-4c079225454d](https://github.com/user-attachments/assets/e8c982fb-0dda-4b5f-a96f-142d50385506)
+
 
 
 LTE Tri on over 100 meter from the BTS like from this image is :
-- RSRP (Reference Signal Received Power)    : 
-- RSRQ (Reference Signal Received Quality)  : 
-- Bandwidth                                 : 
-- ASU (Arbitary Strength Unit)              : 
+- RSRP (Reference Signal Received Power)    : -94
+- RSRQ (Reference Signal Received Quality)  : -10
+- Bandwidth                                 : 3
+- ASU (Arbitary Strength Unit)              : 40
 
 
-Speed Image
+![ad1feaa2-f2d3-45f2-8f11-4dcd10bfcbba](https://github.com/user-attachments/assets/c63cdbfd-677d-4f5b-a38a-043b9dee2a74)
+
 The measurement results from the application have the following results:
 
-- Download  : 
-- Upload    :
-- Jitter    : 
-- PING      :  
+- Download  : 12 Mbps
+- Upload    : 28 Mbps
+- Jitter    : 5 ms
+- PING      : 54 ms
 
 Depend on this analysis we can conclude that LTE Telkomsel network from distance over 100 meter can categorize as Mid Cell. It depend on RSRP, RSRQ, ASU, PING, Jitter, Download, and Upload with pretty good score.
 
@@ -122,7 +124,6 @@ The measurement results from the application have the following results:
 Depend on this analysis we can conclude that LTE Telkomsel network from distance over 100 meter can categorize as Excellent. It depend on RSRP, RSRQ, ASU, PING, Jitter, Download, and Upload with very high score.
 
 ## Telkomsel
-Gauge Image
 ![WhatsApp Image 2025-02-12 at 10 33 48 PM](https://github.com/user-attachments/assets/d92011ad-85ef-4954-8d39-de45b214a853)
 
 
@@ -133,7 +134,7 @@ LTE Telkomsel on over 100 meter from the BTS like from this image is :
 - ASU (Arbitary Strength Unit)              : 47
 
 
-Speed Image ![WhatsApp Image 2025-02-12 at 10 33 48 PM (4)](https://github.com/user-attachments/assets/7c3cd25d-5918-4cab-9724-deb47bc9cb84)
+ ![WhatsApp Image 2025-02-12 at 10 33 48 PM (4)](https://github.com/user-attachments/assets/7c3cd25d-5918-4cab-9724-deb47bc9cb84)
 
 The measurement results from the application have the following results:
 
@@ -167,4 +168,6 @@ The measurement results from the application have the following results:
 - PING      : 
 
 Depend on this analysis we can conclude that LTE Telkomsel network from distance over 100 meter can categorize as Mid Cell. It depend on RSRP, RSRQ, ASU, PING, Jitter, Download, and Upload with pretty good score.
+
+
 =======
