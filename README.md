@@ -198,7 +198,8 @@ The measurement results from the application have the following results:
 Depend on this analysis we can conclude that LTE Tri network from distance over 100 meter can categorize as Excellent . It depend on RSRP, RSRQ, ASU, PING, Jitter, Download, and Upload with high score.
 
 Tri BTS picture
+
 ![d7c5a573-237a-43c1-a62d-39808f19afd4](https://github.com/user-attachments/assets/828cf10d-6268-4f0f-982e-a2a06cf26577)
 
 
-=======
+===============================================================================================================================================================================================================
