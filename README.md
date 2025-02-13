@@ -33,7 +33,7 @@ In this analysis we using three diffrent provider that is XL Axiata, Telkomsel, 
 ## A. Over 100 Meter
 ## XL Axiata
   
-  ![14f682af-f1dd-498d-85f8-dc62b43226f3](https://github.com/user-attachments/assets/31dc3f12-03e2-4409-b4b1-8b697df69280 ) 
+![14f682af-f1dd-498d-85f8-dc62b43226f3](https://github.com/user-attachments/assets/31dc3f12-03e2-4409-b4b1-8b697df69280 ) 
 
 
 LTE XL Axiata on over 100 meter from the BTS like from this image is :
