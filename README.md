@@ -7,6 +7,7 @@ Group 1:
 - Pratama Arjan Rangkuti
 - Rizky Rivaldo
 
+# Wifi Analysis
 
 ![7fbffc84-adc2-4d51-a453-8037b9f590bd](https://github.com/user-attachments/assets/6b33c7f1-85c1-4ed9-ab38-dd84c8e101b1)
 
@@ -21,3 +22,4 @@ Bandwidth analog Wi-Fi pada frekuensi 2.4 GHz terbagi menjadi 13 kanal utama, di
 
 C. Kesimpulan 
 Berdasarkan analisis sinyal Wi-Fi, semakin dekat perangkat dengan modem, maka sinyal yang diterima akan semakin kuat, seperti yang terlihat pada jaringan AA dan Izhar yang memiliki kekuatan sinyal -51 dBm, menunjukkan koneksi yang stabil dan berkualitas baik. Sebaliknya, jaringan Infinix HOT 11S NFC memiliki sinyal -65 dBm, yang lebih lemah, kemungkinan karena jaraknya lebih jauh dari modem atau terhalang oleh dinding dan objek lain. Secara umum, sinyal Wi-Fi melemah seiring bertambahnya jarak serta dipengaruhi oleh hambatan fisik seperti dinding, lantai, dan perangkat elektronik yang dapat menyebabkan interferensi. Oleh karena itu, untuk mendapatkan kualitas sinyal terbaik, perangkat sebaiknya berada dalam jarak dekat dengan modem, atau jika memungkinkan, menggunakan Wi-Fi extender atau berpindah ke frekuensi 5 GHz untuk performa yang lebih optimal pada jarak menengah.
+
