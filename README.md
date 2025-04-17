@@ -178,7 +178,7 @@ Telkomsel BTS picture
 ![f1adc8b1-5cc5-438f-b907-d548c4a31bfb](https://github.com/user-attachments/assets/77236c62-90a7-43cb-8035-a9bce947dd15)
 
 
-LTE Telkomsel on over 100 meter from the BTS like from this image is :
+Tri on over 100 meter from the BTS like from this image is :
 - RSRP (Reference Signal Received Power)    : -74
 - RSRQ (Reference Signal Received Quality)  : -9
 - Bandwidth                                 : 3
